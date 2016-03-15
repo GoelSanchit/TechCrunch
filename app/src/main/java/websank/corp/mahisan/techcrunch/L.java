@@ -4,7 +4,6 @@ import android.content.Context;
 import android.util.Log;
 import android.widget.Toast;
 
-
 /**
  * Created by user on 02-03-2015..
  */
